@@ -55,13 +55,6 @@ The application is decomposed into independent, scalable microservices:
 
 ---
 
-## 📸 System Screenshots
-
-| Eureka Discovery Dashboard | Booking & Workspace UI |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/450x250?text=Eureka+Dashboard+(:8761)" width="450"/> | <img src="https://via.placeholder.com/450x250?text=Booking+Interface" width="450"/> |
-
----
 
 ## 🚀 How to Run the Services
 
