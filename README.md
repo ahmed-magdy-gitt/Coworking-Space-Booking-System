@@ -8,7 +8,7 @@
 
 ---
 
-## 📱 Project Overview | نبذة عن المشروع
+## 📱 Project Overview 
 
 **Coworking Hub** is a full-stack, enterprise-grade booking management system built on a modular **Microservices Architecture**. The platform allows users to discover coworking spaces, reserve private desks and meeting rooms, and manage user accounts securely.
 
@@ -16,7 +16,7 @@ It leverages **Spring Cloud Eureka** for service discovery and an **API Gateway*
 
 ---
 
-## 🏗️ Architecture & Services | معمارية النظام
+## 🏗️ Architecture & Services 
 
 The application is decomposed into independent, scalable microservices:
 
@@ -28,7 +28,7 @@ The application is decomposed into independent, scalable microservices:
 
 ---
 
-## 🛠️ Tech Stack | التقنيات المستخدمة
+## 🛠️ Tech Stack  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -42,14 +42,6 @@ The application is decomposed into independent, scalable microservices:
 | **Microservices Suite** | Spring Cloud Eureka (Discovery), Spring Cloud Gateway |
 | **Build & Tools** | Maven (`mvnw`), PowerShell Orchestration |
 | **Containerization** | Docker, Docker Compose (`docker-compose.yml`) |
-
----
-
-## 📸 System Screenshots
-
-| Eureka Discovery Dashboard | Booking & Workspace UI |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/450x250?text=Eureka+Dashboard+(:8761)" width="450"/> | <img src="https://via.placeholder.com/450x250?text=Booking+Interface" width="450"/> |
 
 ---
 
